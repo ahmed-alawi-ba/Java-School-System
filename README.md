@@ -10,7 +10,7 @@ This is a basic small School system using Java, with an internal database (sqlit
 
 <br/><br/>
 
-<img src="aab-school-system.JPG"></a>
+<img src="screenshots/aab-school-system.JPG"></a>
 
 <br/><br/>
 
